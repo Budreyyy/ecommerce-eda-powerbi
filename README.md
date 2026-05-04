@@ -1,68 +1,66 @@
-\# E-Commerce Sales Analytics – Power BI EDA
+E-Commerce Sales Analytics – Power BI EDA
+
+
+📌 Summary
+
+
+This project showcases Exploratory Data Analysis (EDA) of e-commerce sales using Power BI.
+
+The interactive dashboard consists of three main pages: Overview, Product & Price Analysis, and Customer Insight.
+
+A year filter (2022–2035) is included to demonstrate technical capability in building dynamic dashboards.
 
 
 
-\## 📌 Ringkasan
-
-Proyek ini menampilkan \*\*Exploratory Data Analysis (EDA)\*\* penjualan e-commerce menggunakan \*\*Power BI\*\*.  
-
-Dashboard terdiri dari tiga halaman utama: \*\*Overview\*\*, \*\*Product \& Price Analysis\*\*, dan \*\*Customer Insight\*\*.  
-
-Filter tahun (2022–2035) disediakan untuk menunjukkan kemampuan teknis dalam membuat dashboard dinamis.
+📊 Dashboard Pages
 
 
+**Overview**
 
-\## 📊 Halaman Dashboard
+-KPI Cards: Revenue, Orders, AOV, Rating, Delivery Days
 
-1\. \*\*Overview\*\*
+-Monthly revenue trend
 
-&#x20;  - KPI Cards: Revenue, Orders, AOV, Rating, Delivery Days
+-Revenue by category & region
 
-&#x20;  - Revenue trend bulanan
+-Payment method distribution
 
-&#x20;  - Revenue per kategori \& region
-
-&#x20;  - Payment method distribution
-
-&#x20;  - Revenue vs Discount impact
+-Revenue vs. Discount impact
 
 
 
-2\. \*\*Product \& Price Analysis\*\*
+**Product & Price Analysis**
 
-&#x20;  - Quantity sold per kategori
+-Quantity sold per category
 
-&#x20;  - Distribusi harga produk
+-Product price distribution
 
-&#x20;  - Price segment by category
+-Price segment by category
 
-&#x20;  - Revenue \& discount per price segment
-
-&#x20;  - Pareto analysis (20% produk → 80% revenue)
+-Revenue & discount by price segment
 
 
 
-3\. \*\*Customer Insight\*\*
+**Customer Insight**
 
-&#x20;  - Total customers \& repeat purchase rate
+-Total customers & repeat purchase rate
 
-&#x20;  - Rating distribution
+-Rating distribution
 
-&#x20;  - Orders per region
+-Orders by region
 
-&#x20;  - Top customers table
+-Top customers table
 
-&#x20;  - Rating vs Revenue scatter plot
-
-
-
-\## 🚀 Tools
-
-\- Power BI (visualisasi \& dashboard)
-
-\- Dataset CSV (dummy/open dataset)
+-Rating vs. Revenue scatter plot
 
 
 
-\---
+🚀 Tools
+
+Power BI (visualization & dashboard)
+>>>>>>> 5563fd5 (Menyimpan perubahan lokal)
+
+
+
+---
 
