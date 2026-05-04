@@ -58,7 +58,6 @@ A year filter (2022–2035) is included to demonstrate technical capability in b
 🚀 Tools
 
 Power BI (visualization & dashboard)
->>>>>>> 5563fd5 (Menyimpan perubahan lokal)
 
 
 
